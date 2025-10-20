@@ -1,2 +1,2 @@
 # FPL-Optimizer
-Jupyter notebook created for optimizing fantasy premier leage teams for short and long horizons (1-6 gameweeks), taking cuurent teams and wildcard teams into account as well as possible transfers.
+Jupyter notebook created for optimizing fantasy premier leage teams for short and long horizons (1-6 gameweeks), taking cuurent teams and wildcard teams into account as well as possible transfers. Found no possible way to scrape points predictions at this time, so predicted points are fetched by copying and pasting from https://www.fantasyfootballpundit.com/fpl-points-predictor/ into the relevant csv files.
